@@ -1,0 +1,11 @@
+# main
+.idea
+
+# CUDA
+/CUDA_examples/Beginner/x64
+/CUDA_examples/Beginner/Beginner.vcxproj
+/CUDA_examples/Beginner/Beginner.vcxproj.filters
+/CUDA_examples/Beginner/Beginner.vcxproj.user
+
+# Cython
+/cython_and_CUDA_examples
